@@ -1,4 +1,4 @@
-<img src="https://image.spreadshirtmedia.net/image-server/v1/designs/176524144,width=178,height=178.png" width="300px" min-width="300px" max-width="300px" align="right" alt="frassetti ">
+<img src="https://static.wikia.nocookie.net/survivorrp/images/7/7d/Clancy_full.png/revision/latest?cb=20210518003550" width="300px" min-width="300px" max-width="300px" align="right" alt="frassetti ">
 
 <h2>Welcome to the my profile ☕</h2>
 
