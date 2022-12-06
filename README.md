@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="https://t.me/frassettijs" alt="Telegram">
-    <img src="https://img.shields.io/badge/-Telegram-ff3a5e?style=for-the-badge&logo=Telegram&logoColor=FFF"/>
+    <img src="https://image.spreadshirtmedia.net/image-server/v1/designs/176524144,width=178,height=178.png"/>
   </a>
   
 </div>
